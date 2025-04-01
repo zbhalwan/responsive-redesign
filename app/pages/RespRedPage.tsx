@@ -291,7 +291,7 @@ const RespRedPage = () => {
             <img src="/mobile1.png" alt="apsara tablet" />
           </div>
           <div className="image-container-2">
-            <img src="/mobile3.png" alt="apsara tablet" />
+            <img src="/mobile5.png" alt="apsara tablet" />
           </div>
         </div>
       </section>
